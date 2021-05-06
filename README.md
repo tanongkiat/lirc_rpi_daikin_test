@@ -65,4 +65,4 @@ this tools will help you understand your infrared protocol.
 ->              10      5500
 -> put 500 at the end of RAW code
 
-*** DONE **** HOPE THIS WILL HELP **** 
+*** DONE **** HOPE THIS WILL HELP **** *
